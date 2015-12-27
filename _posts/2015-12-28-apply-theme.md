@@ -10,6 +10,7 @@ categories: 잡담
 ## Jekyll 테마 적용
 
 Pawpaw라는 한 중국분의 Pithy 라는 테마를 적용했습니다.
+
 - link: [http://jekyllthemes.org/themes/pithy/](http://jekyllthemes.org/themes/pithy/)
 - github: [https://github.com/smallmuou/Jekyll-Pithy](https://github.com/smallmuou/Jekyll-Pithy)
 
