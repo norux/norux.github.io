@@ -1,0 +1,18 @@
+# Site settings
+title: norux's Home
+mynick: norux
+myname: Andrew Heebum Kwak
+email: andrew@norux.me
+
+baseurl: ""
+url: "http://norux.github.io"
+
+github_username: norux
+blog: http://norux.me
+
+highlighter: pygments
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
